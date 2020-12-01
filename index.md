@@ -22,7 +22,8 @@
 ### 项目研究
 #### 学校
 - **项目1**
-项目描述<table border="0">
+ 
+<table border="0">
   <tr>
     <td width="75%">
       <h1>罗妮娜</h1>
