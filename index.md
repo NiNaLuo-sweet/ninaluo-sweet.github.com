@@ -32,7 +32,7 @@
       <p><b>地址：浙江省宁波市鄞州区邱隘镇回龙村盛莫路1519号浙江万里学院回龙校区。</b></p>
     </td>
     <td width="25%">
-      <img src="/mmexport1599470642188.jpg" width="100%">      
+      <img src="/mmexport1599470639599.jpg" width="100%">    ％  
     </td>
   </tr>
 </table>
